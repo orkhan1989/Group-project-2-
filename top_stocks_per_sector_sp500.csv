@@ -1,0 +1,23 @@
+Name,Ticker,Sector
+Alphabet Inc. Class A,GOOGL,Communication Services
+Alphabet Inc. Class C,GOOG,Communication Services
+Amazon.com Inc.,AMZN,Consumer Discretionary
+Tesla Inc,TSLA,Consumer Discretionary
+Procter & Gamble Company,PG,Consumer Staples
+Costco Wholesale Corporation,COST,Consumer Staples
+Exxon Mobil Corporation,XOM,Energy
+Chevron Corporation,CVX,Energy
+Berkshire Hathaway Inc. Class B,BRK.B,Financials
+JPMorgan Chase & Co.,JPM,Financials
+UnitedHealth Group Incorporated,UNH,Health Care
+Johnson & Johnson,JNJ,Health Care
+Union Pacific Corporation,UNP,Industrials
+United Parcel Service Inc. Class B,UPS,Industrials
+Apple Inc.,AAPL,Information Technology
+Microsoft Corporation,MSFT,Information Technology
+Linde plc,LIN,Materials
+Sherwin-Williams Company,SHW,Materials
+American Tower Corporation,AMT,Real Estate
+Prologis Inc.,PLD,Real Estate
+NextEra Energy Inc.,NEE,Utilities
+Duke Energy Corporation,DUK,Utilities
